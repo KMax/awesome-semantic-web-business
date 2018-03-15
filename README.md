@@ -30,6 +30,7 @@ List of companies employing Semantic Web technologies in their solutions.
 - [Ontos](http://ontos.com)
 - [ontotext](https://ontotext.com)
 - [redlink](https://redlink.co)
+- [Semantic Software](http://semanticsoftware.com)
 - [Semantic Web Company](https://semantic-web.com)
 - [SpazioDati](https://www.spaziodati.eu)
 - [Swirrl](http://www.swirrl.com)
