@@ -12,6 +12,10 @@
 - General - https://github.com/semantalytics/awesome-semantic-web
 - Vocabularies, ontologies, etc. - https://github.com/jbenner-radham/awesome-semantic-web
 
+## White papers, Use cases
+
+- [How Semantic Technologies Enable Domain Experts to Steer Cognitive Applications](https://www.poolparty.biz/wp-content/uploads/2017/08/IDC_Paper_How_Semantic_Technologies_Steer_Cognitive_Applications.pdf) (July 2017). Sponsored by Semantic Web Company
+
 ## Companies
 
 List of companies employing Semantic Web technologies in their solutions.
