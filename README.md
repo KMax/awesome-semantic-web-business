@@ -23,6 +23,7 @@ List of companies employing Semantic Web technologies in their solutions.
 - [3 Round Stones](http://3roundstones.com)
 - [base22](http://base22.com)
 - [Cambridge Semantics](https://www.cambridgesemantics.com)
+- [Capsenta](https://capsenta.com)
 - [CONWEAVER](https://www.conweaver.com)
 - [DataFabric](http://datafabric.cc)
 - [data.world](https://data.world)
