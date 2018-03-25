@@ -12,7 +12,11 @@
 - General - https://github.com/semantalytics/awesome-semantic-web
 - Vocabularies, ontologies, etc. - https://github.com/jbenner-radham/awesome-semantic-web
 
-## White papers, Use cases
+## Use cases
+
+- [NASA's Knowledge Graph](https://www.stardog.com/blog/nasas-knowledge-graph/) (Aug 2017). By Stardog Union
+
+## White papers
 
 - [How Semantic Technologies Enable Domain Experts to Steer Cognitive Applications](https://www.poolparty.biz/wp-content/uploads/2017/08/IDC_Paper_How_Semantic_Technologies_Steer_Cognitive_Applications.pdf) (July 2017). Sponsored by Semantic Web Company
 
@@ -39,6 +43,7 @@ List of companies employing Semantic Web technologies in their solutions.
 - [Semantic Web Company](https://semantic-web.com)
 - [Seme4](http://www.seme4.com)
 - [SpazioDati](https://www.spaziodati.eu)
+- [Stardog Union](https://www.stardog.com)
 - [Swirrl](http://www.swirrl.com)
 - [Talis](https://talis.com)
 - [TopQuadrant](https://www.topquadrant.com)
