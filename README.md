@@ -12,7 +12,11 @@
 - General - https://github.com/semantalytics/awesome-semantic-web
 - Vocabularies, ontologies, etc. - https://github.com/jbenner-radham/awesome-semantic-web
 
-## White papers, Use cases
+## Use cases
+
+- [NASA's Knowledge Graph](https://www.stardog.com/blog/nasas-knowledge-graph/) (Aug 2017). By Stardog Union
+
+## White papers
 
 - [How Semantic Technologies Enable Domain Experts to Steer Cognitive Applications](https://www.poolparty.biz/wp-content/uploads/2017/08/IDC_Paper_How_Semantic_Technologies_Steer_Cognitive_Applications.pdf) (July 2017). Sponsored by Semantic Web Company
 
@@ -24,11 +28,13 @@ List of companies employing Semantic Web technologies in their solutions.
 - [base22](http://base22.com)
 - [Cambridge Semantics](https://www.cambridgesemantics.com)
 - [Capsenta](https://capsenta.com)
+- [Cognonto](http://cognonto.com)
 - [CONWEAVER](https://www.conweaver.com)
 - [DataFabric](http://datafabric.cc)
 - [data.world](https://data.world)
 - [eccenca](https://www.eccenca.com)
 - [Epimorphics](https://www.epimorphics.com)
+- [FactsMission](https://factsmission.com)
 - [LinkedData.Center](http://linkeddata.center)
 - [Linkurious](https://linkurio.us)
 - [metaphacts](http://metaphacts.com)
@@ -39,10 +45,13 @@ List of companies employing Semantic Web technologies in their solutions.
 - [Semantic Software](http://semanticsoftware.com)
 - [Semantic Web Company](https://semantic-web.com)
 - [Seme4](http://www.seme4.com)
+- [Sepage](https://www.sepage.fr)
 - [SpazioDati](https://www.spaziodati.eu)
+- [Stardog Union](https://www.stardog.com)
 - [Swirrl](http://www.swirrl.com)
 - [Talis](https://talis.com)
 - [TopQuadrant](https://www.topquadrant.com)
 - [VISmart](http://vismart.biz)
 - [XIMDEX](http://www.ximdex.com)
+- [zazuko](http://www.zazuko.com)
 - [Zepheira](https://zepheira.com)
