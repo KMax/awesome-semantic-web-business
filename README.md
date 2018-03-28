@@ -5,6 +5,8 @@
 ## Table of Contents
 
 - [Awesome Semantic Web lists](#awesome-semantic-web-lists)
+- [Use cases](#use-cases)
+- [White papers](#white-papers)
 - [Companies](#companies)
 
 ## Awesome Semantic Web Lists
@@ -42,6 +44,7 @@ List of companies employing Semantic Web technologies in their solutions.
 - [Ontos](http://ontos.com)
 - [ontotext](https://ontotext.com)
 - [redlink](https://redlink.co)
+- [Semantic Evolution](http://www.semantic-evolution.com)
 - [Semantic Software](http://semanticsoftware.com)
 - [Semantic Web Company](https://semantic-web.com)
 - [Seme4](http://www.seme4.com)
