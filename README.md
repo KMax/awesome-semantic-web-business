@@ -17,6 +17,7 @@
 ## Use cases
 
 - [NASA's Knowledge Graph](https://www.stardog.com/blog/nasas-knowledge-graph/) (Aug 2017). By Stardog Union
+- [Semantic Web Case Studies and Use Cases](https://www.w3.org/2001/sw/sweo/public/UseCases/) (2007-2012). Published by W3C5
 
 ## White papers
 
