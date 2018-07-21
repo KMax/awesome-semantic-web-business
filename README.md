@@ -53,6 +53,7 @@ List of companies employing Semantic Web technologies in their solutions.
 - [Seme4](http://www.seme4.com)
 - [semweb](https://semweb.ch)
 - [Sepage](https://www.sepage.fr)
+- [Smartlogic](https://www.smartlogic.com)
 - [SpazioDati](https://www.spaziodati.eu)
 - [Stardog Union](https://www.stardog.com)
 - [Swirrl](http://www.swirrl.com)
