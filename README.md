@@ -52,6 +52,7 @@ List of companies employing Semantic Web technologies in their solutions.
 - [Semantic Software](http://semanticsoftware.com)
 - [Semantic Web Company](https://semantic-web.com)
 - [Seme4](http://www.seme4.com)
+- [Semiodesk](https://www.semiodesk.com)
 - [semweb](https://semweb.ch)
 - [Sepage](https://www.sepage.fr)
 - [Smartlogic](https://www.smartlogic.com)
