@@ -36,6 +36,7 @@ List of companies employing Semantic Web technologies in their solutions.
 - [DataFabric](http://datafabric.cc)
 - [data.world](https://data.world)
 - [eccenca](https://www.eccenca.com)
+- [Element22](http://www.element-22.com/)
 - [Epimorphics](https://www.epimorphics.com)
 - [FactsMission](https://factsmission.com)
 - [Forge.AI](https://www.forge.ai)
