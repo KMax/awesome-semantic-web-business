@@ -35,6 +35,7 @@ List of companies employing Semantic Web technologies in their solutions.
 - [CONWEAVER](https://www.conweaver.com)
 - [DataFabric](http://datafabric.cc)
 - [data.world](https://data.world)
+- [Derivo](http://derivo.de)
 - [eccenca](https://www.eccenca.com)
 - [Element22](http://www.element-22.com/)
 - [Epimorphics](https://www.epimorphics.com)
