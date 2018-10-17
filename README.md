@@ -62,6 +62,7 @@ List of companies employing Semantic Web technologies in their solutions.
 - [Stardog Union](https://www.stardog.com)
 - [Swirrl](http://www.swirrl.com)
 - [Talis](https://talis.com)
+- [Taxonic](https://www.taxonic.com)
 - [Tellura Semantics](http://tellurasemantics.com/)
 - [TopQuadrant](https://www.topquadrant.com)
 - [VISmart](http://vismart.biz)
