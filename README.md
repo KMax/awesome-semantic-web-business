@@ -16,6 +16,7 @@
 
 ## Use cases
 
+- [Better customer search and browsing experience](https://www.youtube.com/watch?v=1cQEWVxCJUk&list=PLxzIV5KV6zVWpidIfuuwaZzeFJFKvF0MC&index=10) (Nov 2018). By Zalando
 - [NASA's Knowledge Graph](https://www.stardog.com/blog/nasas-knowledge-graph/) (Aug 2017). By Stardog Union
 - [Semantic Web Case Studies and Use Cases](https://www.w3.org/2001/sw/sweo/public/UseCases/) (2007-2012). Published by W3C5
 
@@ -68,5 +69,6 @@ List of companies employing Semantic Web technologies in their solutions.
 - [TopQuadrant](https://www.topquadrant.com)
 - [VISmart](http://vismart.biz)
 - [XIMDEX](http://www.ximdex.com)
+- [Zalando](http://www.zalando.com/)
 - [zazuko](http://www.zazuko.com)
 - [Zepheira](https://zepheira.com)
