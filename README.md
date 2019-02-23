@@ -51,6 +51,7 @@ List of companies employing Semantic Web technologies in their solutions.
 - [ontotext](https://ontotext.com)
 - [redlink](https://redlink.co)
 - [semafora systems](www.semafora-systems.com)
+- [Semalytix](https://semalytix.com)
 - [Semantic Evolution](http://www.semantic-evolution.com)
 - [Semantic Hub](http://www.semantic-hub.com/)
 - [Semantic Software](http://semanticsoftware.com)
