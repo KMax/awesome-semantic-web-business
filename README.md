@@ -45,6 +45,7 @@ List of companies employing Semantic Web technologies in their solutions.
 - [FactsMission](https://factsmission.com)
 - [Forge.AI](https://www.forge.ai)
 - [Franz Inc.](https://franz.com/)
+- [GEOPHY](https://geophy.com)
 - [LinkedData.Center](http://linkeddata.center)
 - [Linkurious](https://linkurio.us)
 - [metaphacts](http://metaphacts.com)
