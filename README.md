@@ -40,6 +40,7 @@ List of companies employing Semantic Web technologies in their solutions.
 - [Derivo](http://derivo.de)
 - [eccenca](https://www.eccenca.com)
 - [Element22](http://www.element-22.com/)
+- [Enigma](https://www.enigma.com)
 - [Epimorphics](https://www.epimorphics.com)
 - [FactsMission](https://factsmission.com)
 - [Forge.AI](https://www.forge.ai)
