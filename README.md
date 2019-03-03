@@ -28,6 +28,7 @@
 
 List of companies employing Semantic Web technologies in their solutions.
 
+- [Agrimetrics](https://agrimetrics.co.uk)
 - [3 Round Stones](http://3roundstones.com)
 - [base22](http://base22.com)
 - [Cambridge Semantics](https://www.cambridgesemantics.com)
