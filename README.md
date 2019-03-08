@@ -74,6 +74,7 @@ List of companies employing Semantic Web technologies in their solutions.
 - [Tellura Semantics](http://tellurasemantics.com/)
 - [TopQuadrant](https://www.topquadrant.com)
 - [VISmart](http://vismart.biz)
+- [Wikilect] (https://wikilect.ru/)
 - [XIMDEX](http://www.ximdex.com)
 - [Zalando](http://www.zalando.com/)
 - [zazuko](http://www.zazuko.com)
