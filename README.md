@@ -45,14 +45,14 @@ Company Name                             | Reason to include
 [LinkedData.Center](http://linkeddata.center) |
 [Linkurious](https://linkurio.us) |
 [metaphacts](http://metaphacts.com) |
-[ONTOFORCE](https://www.ontoforce.com) |
+[ONTOFORCE](https://www.ontoforce.com) | [product description](https://www.ontoforce.com/technology)
 [Ontos](http://ontos.com) |
 [ontotext](https://ontotext.com) |
 [redlink](https://redlink.co) |
 [redpencil.io](https://redpencil.io/) |
 [SciBite](https://www.scibite.com/) |
 [semafora systems](www.semafora-systems.com) |
-[Semalytix](https://semalytix.com) |
+[Semalytix](https://semalytix.com) | [job posting](https://www.semalytix.com/wp-content/uploads/2019/01/jobs_software_developer_with_graph_affinity.pdf)
 [Semantic Evolution](http://www.semantic-evolution.com) |
 [Semantic Hub](http://www.semantic-hub.com/) |
 [Semantic Software](http://semanticsoftware.com) |
@@ -70,7 +70,7 @@ Company Name                             | Reason to include
 [Tellura Semantics](http://tellurasemantics.com) |
 [Thomson Reuters](https://www.thomsonreuters.com) | [product description](https://permid.org/)
 [TopQuadrant](https://www.topquadrant.com) |
-[VISmart](http://vismart.biz) |
+[VISmart](http://vismart.biz) | [product description](http://ontodia.org/)
 [Wikilect](https://wikilect.ru/) |
 [XIMDEX](http://www.ximdex.com) |
 [Zalando](http://www.zalando.com/) | [presentation](https://www.youtube.com/watch?v=1cQEWVxCJUk&list=PLxzIV5KV6zVWpidIfuuwaZzeFJFKvF0MC&index=10)
