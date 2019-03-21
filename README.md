@@ -40,6 +40,7 @@ Company Name                             | Reason to include
 [FactsMission](https://factsmission.com) |
 [Forge.AI](https://www.forge.ai) |
 [Franz Inc.](https://franz.com/) |
+[Genetwister](https://www.genetwister.nl) | [project description](https://www.genetwister.nl/projecten/semantic-web)
 [GEOPHY](https://geophy.com) |
 [LinkedData.Center](http://linkeddata.center) |
 [Linkurious](https://linkurio.us) |
