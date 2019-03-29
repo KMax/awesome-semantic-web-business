@@ -48,6 +48,7 @@ Company Name                             | Reason to include
 [Linkurious](https://linkurio.us) |
 [MarkLogic](https://www.marklogic.com/) | [product description](https://cdn1.marklogic.com/wp-content/uploads/2018/01/Semantics-Datasheet.pdf)
 [metaphacts](http://metaphacts.com) |
+[Move Digital AG](https://www.movedigital.ch) | [job posting](http://web.archive.org/web/20190329184427/https://www.movedigital.ch/en/careers/ontology-engineer/)
 [ONTOFORCE](https://www.ontoforce.com) | [product description](https://www.ontoforce.com/technology)
 [Ontos](http://ontos.com) |
 [ontotext](https://ontotext.com) |
@@ -58,7 +59,7 @@ Company Name                             | Reason to include
 [redpencil.io](https://redpencil.io/) |
 [SciBite](https://www.scibite.com/) |
 [semafora systems](www.semafora-systems.com) |
-[Semalytix](https://semalytix.com) | [job posting](https://www.semalytix.com/wp-content/uploads/2019/01/jobs_software_developer_with_graph_affinity.pdf)
+[Semalytix](https://semalytix.com) | [job posting](http://web.archive.org/web/20190329184531/https://www.semalytix.com/wp-content/uploads/2019/01/jobs_software_developer_with_graph_affinity.pdf)
 [Semantic Evolution](http://www.semantic-evolution.com) |
 [Semantic Hub](http://www.semantic-hub.com/) |
 [Semantic Software](http://semanticsoftware.com) |
