@@ -23,9 +23,11 @@ List of companies employing Semantic Web technologies in their solutions.
 
 Company Name                             | Reason to include 
 -----------------------------------------|-------------------
-[Agrimetrics](https://agrimetrics.co.uk) | [job posting](https://web.archive.org/web/20190320203317/https://agrimetrics.co.uk/careers/semantic-web-linked-data-scientist-at-agrimetrics)
 [3 Round Stones](http://3roundstones.com) |
+[Agrimetrics](https://agrimetrics.co.uk) | [job posting](https://web.archive.org/web/20190320203317/https://agrimetrics.co.uk/careers/semantic-web-linked-data-scientist-at-agrimetrics)
+[AstraZeneca](https://www.astrazeneca.com/) | [job posting](http://web.archive.org/web/20190503084905/https://job-search.astrazeneca.com/job/cambridge/informatician-astrazeneca-r-and-d-disease-knowledge-graph-team/7684/11393491)
 [base22](http://base22.com) |
+[Babylon](https://www.babylonhealth.com/) | [job posting](https://web.archive.org/web/20190503083427/https://jobs.lever.co/babylonhealth/cd7b6b1e-7efe-4f16-9d5d-0148d18af31d)
 [Cambridge Semantics](https://www.cambridgesemantics.com) |
 [Capsenta](https://capsenta.com) |
 [Cognitum](https://www.cognitum.eu/) | [product description](https://www.cognitum.eu/semantics/Tools/SparqlExcelTools.aspx)
