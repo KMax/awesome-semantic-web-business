@@ -45,7 +45,7 @@ Company Name                             | Reason to include
 [Forge.AI](https://www.forge.ai) |
 [Franz Inc.](https://franz.com/) |
 [Genetwister](https://www.genetwister.nl) | [project description](https://www.genetwister.nl/projecten/semantic-web)
-[GEOPHY](https://geophy.com) |
+[GEOPHY](https://geophy.com) | [blog post](https://medium.com/geophy-hq/performing-geospatial-queries-at-scale-7b64795d7704)
 [LinkedData.Center](http://linkeddata.center) |
 [Linkurious](https://linkurio.us) |
 [MarkLogic](https://www.marklogic.com/) | [product description](https://cdn1.marklogic.com/wp-content/uploads/2018/01/Semantics-Datasheet.pdf)
