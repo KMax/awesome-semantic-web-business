@@ -28,6 +28,7 @@ Company Name                             | Reason to include
 [AstraZeneca](https://www.astrazeneca.com/) | [job posting](http://web.archive.org/web/20190503084905/https://job-search.astrazeneca.com/job/cambridge/informatician-astrazeneca-r-and-d-disease-knowledge-graph-team/7684/11393491)
 [base22](http://base22.com) |
 [Babylon](https://www.babylonhealth.com/) | [job posting](https://web.archive.org/web/20190503083427/https://jobs.lever.co/babylonhealth/cd7b6b1e-7efe-4f16-9d5d-0148d18af31d)
+[Bayer](https://www.bayer.com/) | [job posting](https://web.archive.org/web/20190507183607/https://karriere.bayer.de/job/Computational-Scientist-m-f-d--SF40783_en_US.html)
 [Cambridge Semantics](https://www.cambridgesemantics.com) |
 [Capsenta](https://capsenta.com) |
 [Cognitum](https://www.cognitum.eu/) | [product description](https://www.cognitum.eu/semantics/Tools/SparqlExcelTools.aspx)
