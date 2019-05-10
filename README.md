@@ -24,6 +24,7 @@ List of companies employing Semantic Web technologies in their solutions.
 Company Name                             | Reason to include 
 -----------------------------------------|-------------------
 [3 Round Stones](http://3roundstones.com) |
+[Ada Health](https://ada.com/) | [job posting](http://web.archive.org/web/20190510184539/https://adahealth.bamboohr.com/jobs/view.php?id=77) 
 [Agrimetrics](https://agrimetrics.co.uk) | [job posting](https://web.archive.org/web/20190320203317/https://agrimetrics.co.uk/careers/semantic-web-linked-data-scientist-at-agrimetrics)
 [AstraZeneca](https://www.astrazeneca.com/) | [job posting](http://web.archive.org/web/20190503084905/https://job-search.astrazeneca.com/job/cambridge/informatician-astrazeneca-r-and-d-disease-knowledge-graph-team/7684/11393491)
 [base22](http://base22.com) |
