@@ -75,6 +75,7 @@ Company Name                             | Reason to include
 [Siemens](https://www.siemens.com) | [presentation](https://indico.cern.ch/event/669648/contributions/2838194/attachments/1581790/2499984/CERN_Open_Lab_Technical_Workshop_-_SIEMENS_AG_-_FISHKIN_-_11-01-2018.pdf)
 [Smartlogic](https://www.smartlogic.com) |
 [SpazioDati](https://www.spaziodati.eu) |
+[Starbucks](https://www.starbucks.com) | [job posting](http://web.archive.org/web/20190516184748/https://starbucks.taleo.net/careersection/1000222/jobdetail.ftl?job=190003186&lang=en&src=JB-12147)
 [Stardog Union](https://www.stardog.com) | [blog post](https://www.stardog.com/blog/nasas-knowledge-graph/)
 [Swirrl](http://www.swirrl.com) |
 [Talis](https://talis.com) |
