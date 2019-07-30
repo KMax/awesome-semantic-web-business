@@ -59,6 +59,7 @@ Company Name                             | Reason to include
 [Oracle](https://www.oracle.com) | [product description](https://www.oracle.com/technetwork/database/options/spatialandgraph/overview/rdfsemantic-graph-1902016.html)
 [OpenLink Software](https://www.openlinksw.com/) | [product description](https://virtuoso.openlinksw.com/)
 [Oxford Semantic Technologies](https://www.oxfordsemantic.tech) | [product description](https://www.oxfordsemantic.tech/product)
+[Pinterest](https://www.pinterest.com) | [scientific article](https://arxiv.org/abs/1907.02106)
 [redlink](https://redlink.co) |
 [redpencil.io](https://redpencil.io/) |
 [SciBite](https://www.scibite.com/) |
