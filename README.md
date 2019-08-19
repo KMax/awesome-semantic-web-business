@@ -88,5 +88,5 @@ Company Name                             | Reason to include
 [Wikilect](https://wikilect.ru/) |
 [XIMDEX](http://www.ximdex.com) |
 [Zalando](http://www.zalando.com/) | [presentation](https://www.youtube.com/watch?v=1cQEWVxCJUk&list=PLxzIV5KV6zVWpidIfuuwaZzeFJFKvF0MC&index=10)
-[zazuko](http://www.zazuko.com) |
+[Zazuko](http://www.zazuko.com) | [product description](https://web.archive.org/web/20190819124926/https://zazuko.com/products/ontology-manager/)
 [Zepheira](https://zepheira.com) |
