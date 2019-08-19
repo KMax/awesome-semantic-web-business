@@ -36,7 +36,7 @@ Company Name                             | Reason to include
 [Cognonto](http://cognonto.com) |
 [CONWEAVER](https://www.conweaver.com) |
 [DarkLight](https://www.darklight.ai) | [blog post](https://www.darklight.ai/blog/artificial-intelligence-belief-propagation-with-a-common-object-model)
-[DataFabric](http://datafabric.cc) |
+[DataFabric](http://datafabric.cc) | [blog post](https://medium.com/datafabric/topology-of-business-a-knowledge-graph-of-federal-tax-service-1874186efe9b)
 [data.world](https://data.world) |
 [Derivo](http://derivo.de) |
 [eccenca](https://www.eccenca.com) |
@@ -62,7 +62,7 @@ Company Name                             | Reason to include
 [Pinterest](https://www.pinterest.com) | [scientific article](https://arxiv.org/abs/1907.02106)
 [redlink](https://redlink.co) |
 [redpencil.io](https://redpencil.io/) |
-[SciBite](https://www.scibite.com/) | [blog posting](https://web.archive.org/web/20190819120042/https://www.scibite.com/wp-content/uploads/2018/04/SciBite-Use-Case-12-Semantics-in-Enterprise-Search.pdf), [blog posting](https://web.archive.org/web/20190819115945/https://www.scibite.com/wp-content/uploads/2018/04/SciBite-Use-Case-5-Eliminating-the-data-preparation-burden.pdf)
+[SciBite](https://www.scibite.com/) | [blog post](https://web.archive.org/web/20190819120042/https://www.scibite.com/wp-content/uploads/2018/04/SciBite-Use-Case-12-Semantics-in-Enterprise-Search.pdf), [blog post](https://web.archive.org/web/20190819115945/https://www.scibite.com/wp-content/uploads/2018/04/SciBite-Use-Case-5-Eliminating-the-data-preparation-burden.pdf)
 [semafora systems](www.semafora-systems.com) |
 [Semalytix](https://semalytix.com) | [job posting](http://web.archive.org/web/20190329184531/https://www.semalytix.com/wp-content/uploads/2019/01/jobs_software_developer_with_graph_affinity.pdf)
 [Semantic Evolution](http://www.semantic-evolution.com) |
