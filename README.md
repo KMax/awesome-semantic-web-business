@@ -53,6 +53,7 @@ Company Name                             | Reason to include
 [MarkLogic](https://www.marklogic.com/) | [product description](https://cdn1.marklogic.com/wp-content/uploads/2018/01/Semantics-Datasheet.pdf)
 [metaphacts](http://metaphacts.com) |
 [Move Digital AG](https://www.movedigital.ch) | [job posting](http://web.archive.org/web/20190329184427/https://www.movedigital.ch/en/careers/ontology-engineer/)
+[OBDA Systems](http://www.obdasystems.com/) | [product description](http://www.obdasystems.com/mastro)
 [ONTOFORCE](https://www.ontoforce.com) | [product description](https://www.ontoforce.com/technology)
 [Ontos](http://ontos.com) |
 [ontotext](https://ontotext.com) |
