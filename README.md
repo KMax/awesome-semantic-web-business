@@ -39,6 +39,7 @@ Company Name                             | Reason to include
 [DataFabric](http://datafabric.cc) | [blog post](https://medium.com/datafabric/topology-of-business-a-knowledge-graph-of-federal-tax-service-1874186efe9b)
 [data.world](https://data.world) |
 [Derivo](http://derivo.de) |
+[Deloitte](https://deloitte.com) | [job posting](https://web.archive.org/web/20190913161510/https://werkenbijdeloitte.nl/en/vacancies/knowledge-graph-specialist-e777989)
 [eccenca](https://www.eccenca.com) |
 [Element22](http://www.element-22.com/) |
 [Enigma](https://www.enigma.com) |
