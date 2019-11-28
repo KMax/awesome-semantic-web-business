@@ -58,6 +58,7 @@ Company Name                             | Reason to include
 [ONTOFORCE](https://www.ontoforce.com) | [product description](https://www.ontoforce.com/technology)
 [Ontos](http://ontos.com) |
 [ontotext](https://ontotext.com) |
+[OKKAM](https://www.okkam.it/) | [product description](https://www.okkam.it/index.php/en/solutions/datalinks-en)
 [Oracle](https://www.oracle.com) | [product description](https://www.oracle.com/technetwork/database/options/spatialandgraph/overview/rdfsemantic-graph-1902016.html)
 [OpenLink Software](https://www.openlinksw.com/) | [product description](https://virtuoso.openlinksw.com/)
 [Oxford Semantic Technologies](https://www.oxfordsemantic.tech) | [product description](https://www.oxfordsemantic.tech/product)
